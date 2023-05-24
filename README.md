@@ -3,4 +3,4 @@
 <br>
 **This Activity is done during Hero Vired Devops Training.**
 <br>
-[Link to PDF](path/to/Git-Docker.pdf)
+[Link to PDF](Git-Docker.pdf)
