@@ -3,9 +3,3 @@
 <br>
 **This Activity is done during Hero Vired Devops Training.**
 <br>
-
-<html>
-<body>
-  https://drive.google.com/file/d/1trWROZYLK7b3a28ThtVX7aT56QXkQiLW/view?usp=sharing
-</body>
-</html>
